@@ -34,4 +34,8 @@ class Train
   def a
     "a"
   end
+
+  def b
+    "b"
+  end
 end
