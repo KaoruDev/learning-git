@@ -42,4 +42,8 @@ class Train
   def c
     "c"
   end
+
+  def d
+    'c'
+  end
 end
