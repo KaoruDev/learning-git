@@ -28,18 +28,6 @@ class Train
   end
 
 
-  def a
-    "a"
-  end
-
-  def b
-    "b"
-  end
-
-  def c
-    "c"
-  end 
-
 
   def e
     "e"
