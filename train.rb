@@ -31,20 +31,5 @@ class Train
     duration * @speed
   end
 
-  def a
-    "a"
-  end
-
-  def b
-    "b"
-  end
-
-  def c
-    "c"
-  end 
-
-
-  def e
-    "e"
-  end
+  
 end
