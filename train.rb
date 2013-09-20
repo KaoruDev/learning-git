@@ -49,6 +49,6 @@ class Train
   end
 
   def d
-    'c'
+    'd'
   end
 end
