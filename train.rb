@@ -51,4 +51,8 @@ class Train
   def d
     'd'
   end
+
+  def g
+    'g'
+  end
 end
